@@ -36,5 +36,8 @@
   "todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^|%|\\\\)\\s*($TAGS)\\{*|^\\s*- \\[ \\])",
   "todo-tree.regex.regexCaseSensitive": false,
   "latex-workshop.view.pdf.invert": 0.88,
-  "latex-workshop.hover.preview.cursor.enabled": false
+  "latex-workshop.hover.preview.cursor.enabled": false,
+  "cSpell.words": [
+    "Numériques"
+  ]
 }
